@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-image: url("../assignment/new-year-new-me-main/new-year-new-me-main/images/banner/banner1.png");
+height: 808px;
+left: 160px;
+top: 808px;
+background-size: cover;
+}
+.header-one{
+    text-align: right;
+    margin-top: 220px;
+    position: absolute;
+
+}
+.header-title{
+   
+width: 525px;
+height: 228px;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+margin-left: 826px;
+
+    
+
+}
+.header-description{
+    width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+margin-left: 876px;
+margin-top: 20px;
+
+
+}
+
+.btn{
+    width: 168px;
+    height: 64px;
+    margin-top: 30px
+}
+
+.life{
+    display: flex;
+}
+.person{
+    margin-top: 320px;
+    margin-left: 87px;
+}
+.person-title{
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+width: 300px;;
+}
+.person-description{
+    font-size: 18px;
+        width: 300px;
+        margin-top: 30px;
+
+
+}
+.one{
+    width: 570px;
+    height: 630px;
+    margin: 131px 126px;
+
+}
+
+
+
+.plans{
+    display: flex;
+    margin-top: 100px;
+    gap: 64px;
+    margin-left: 18%;
+}
+
+.plan-name{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.work-title{
+    font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+margin-top: 15px;
+}
+.work-des{
+    font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+margin-top: 14px;
+}
+
+.photo{
+    background-image: url("../assignment/new-year-new-me-main/new-year-new-me-main/images/watch.png");
+    text-align: left;   
+    margin-top: 150px; 
+    background-repeat: no-repeat;
+    margin-left: 120px;
+}
+.photo-text{
+    margin-left: 64px;
+    padding-top: 60px;
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+width: 459px;
+height: 94px;
+color: #FFFFFF;
+}
+.btn{
+    margin-left: 64px;
+    font-size: 20px;
+    line-height: 23px;
+    font-weight: 700;
+    width: 160px;
+    height: 64px;
+    color:#F15B22;
+}
+
+.last{
+    background: #151414;
+    display: flex;
+    height: 377px;
+    margin-top: 80px;
+    background-size: cover;
+
+}
+
+.end{
+    width: 485px;
+    height: 317px;
+    margin: 30px 30px;
+    padding: 50px;
+}
+.end-title{
+    color: #F8F8F8;
+    font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+}
+.end-des{
+    color: #F8F8F8;
+    font-size: 16px;
+    padding-top: 15px;
+}
+
+.end-photo{
+    margin-top: 20px;
+}
+
+
+.email{
+    width: 325px;
+height: 64px;
+left: 1046px;
+top: 2842.26px;
+
+border: 1px solid #FFFFFF;
+border-radius: 8px;
+
+}
+
+.submit{
+    text-align: right;
+    margin-left: 400px;
+    margin-top: 60px;
+}
+.email{
+    margin-top: 15px;
+}
